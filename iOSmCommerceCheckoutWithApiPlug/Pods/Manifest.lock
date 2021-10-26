@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Core (1.7.0)
+  - IQKeyboardManager (6.2.0)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - ImageSlideshow
+  - IQKeyboardManager
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - ImageSlideshow
+    - IQKeyboardManager
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+
+PODFILE CHECKSUM: 31bb0b148d7e3ef274ee4929d459d32eb8429d59
+
+COCOAPODS: 1.6.1
